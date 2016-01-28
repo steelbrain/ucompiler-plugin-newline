@@ -1,7 +1,7 @@
 {
   "name": "ucompiler-plugin-newline",
-  "version": "1.0.4",
-  "description": "Babel support for UCompiler",
+  "version": "1.0.5",
+  "description": "Newline tweaks for UCompiler",
   "main": "lib/main.js",
   "jsnext:main": "src/main.js",
   "devDependencies": {
