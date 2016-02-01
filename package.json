@@ -1,6 +1,6 @@
 {
   "name": "ucompiler-plugin-newline",
-  "version": "1.0.5",
+  "version": "3.0.0",
   "description": "Newline tweaks for UCompiler",
   "main": "lib/main.js",
   "jsnext:main": "src/main.js",
@@ -8,7 +8,7 @@
     "babel-preset-steelbrain": "^1.0.0"
   },
   "scripts": {
-    "compile": "ucompiler go src"
+    "compile": "ucompiler go"
   },
   "repository": {
     "type": "git",
