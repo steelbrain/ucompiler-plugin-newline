@@ -1,19 +1,13 @@
-# UCompiler-Plugin-NewLine
+# UCompiler-Plugin-newline
 
-This plugin for ucompiler makes sure that your generated files always end with
-a new line. It also normalizes their EOLs to LF.
+This is a newline support package for UCompiler. To compile your files using
+newline, simply start them with `'use newline'`.
 
 ## How to Use
 
 You first need to add `ucompiler-plugin-newline` to your `devDependencies`
 within your `package.json`, then simply add "newline" to the `plugins` field
-in your `.ucompilerrc` configuration file.
-
-```js
-{
-  plugins: ["newline"]
-}
-```
+in your `.ucompiler` rule.
 
 ## License
 
