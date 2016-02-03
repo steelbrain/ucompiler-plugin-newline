@@ -1,7 +1,6 @@
 # UCompiler-Plugin-newline
 
-This is a newline support package for UCompiler. To compile your files using
-newline, simply start them with `'use newline'`.
+This package makes sure that your files always end with a newline. It replaces CRLF with LF too.
 
 ## How to Use
 
