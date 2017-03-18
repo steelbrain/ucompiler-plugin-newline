@@ -1,5 +1,7 @@
 # UCompiler-Plugin-newline
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/steelbrain/ucompiler-plugin-newline.svg)](https://greenkeeper.io/)
+
 This package makes sure that your files always end with a newline. It replaces CRLF with LF too.
 
 ## How to Use
